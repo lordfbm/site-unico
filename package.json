@@ -1,0 +1,22 @@
+{
+  "name": "site-unico",
+  "version": "0.0.0",
+  "description": "base de sites ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lordfbm/site-unico.git"
+  },
+  "author": "fabricio-matos",
+  "license": "BSD",
+  "gitHead": "0ff7304d804b9796ccec4230fc096d19e07630d9",
+  "dependencies": {
+    "next": "^14.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
