@@ -3,11 +3,11 @@ function Home(){
     return (
     <div>
         <h1>Home </h1><br></br>
-        <link href="/sobre">
+        <Link href="/sobre">
         <a>
         Acessar página sobre
         </a>
-        </link>
+        </Link>
         
     </div>
     )
